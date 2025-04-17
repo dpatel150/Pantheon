@@ -1,6 +1,4 @@
-# Pantheon
-Programming Assignment 3
-README - Pantheon Network Experiments
+
 Overview
 This project uses the Pantheon framework to evaluate and compare various TCP congestion control algorithms, including BBR, Vegas, Cubic, and Copa. The goal is to measure performance in a simulated network environment using consistent runtime conditions and network traces.
 Requirements
